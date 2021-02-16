@@ -6,8 +6,8 @@
 <br>Входные JSON параметры:
 <pre>
 {
-	"currency" : "USD",      // код валюты.
-	"rateCurrency" : "EUR",  // код валюты, в которой выведется курс, default RUB
+	"currency" : "USD",     // код валюты.
+	"rateCurrency" : "EUR", // код валюты, в которой выведется курс, по умолчанию RUB
 	"rateSum" : "5"		// сумма первой валюты
 }
 </pre>
